@@ -1,8 +1,10 @@
 # 🕹️ Stick & Step - 2D Precision Mobile Platformer
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/8228ce92-1081-4c8f-b370-24e3d48b98cb" width="340" controls autoplay loop muted></video>
-</p>
+<div align="center">
+
+https://github.com/user-attachments/assets/8228ce92-1081-4c8f-b370-24e3d48b98cb
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-2022.3.62f2%20LTS-black?style=for-the-badge&logo=unity" alt="Unity"/>
