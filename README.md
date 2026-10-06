@@ -112,7 +112,6 @@ Bu depo, oyunun ticari varlıklarını (lisanslı görsel materyaller, SDK eklen
 
 <p align="center">
   <img src="screenshots/main_menu.jpg" width="18%" alt="Ana Menü"/>
-  <img src="screenshots/gameplay.jpg" width="18%" alt="Oynanış"/>
   <img src="screenshots/shop_characters.jpg" width="18%" alt="Karakterler"/>
   <img src="screenshots/shop_sticks.jpg" width="18%" alt="Çubuklar"/>
   <img src="screenshots/shop_themes.jpg" width="18%" alt="Temalar"/>
