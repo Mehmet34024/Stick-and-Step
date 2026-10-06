@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/8228ce92-1081-4c8f-b370-24e3d48b98cb
-
 # 🕹️ Stick & Step - 2D Precision Mobile Platformer
 
 <p align="center">
