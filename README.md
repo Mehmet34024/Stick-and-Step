@@ -1,9 +1,9 @@
+https://github.com/user-attachments/assets/8228ce92-1081-4c8f-b370-24e3d48b98cb
+
 # 🕹️ Stick & Step - 2D Precision Mobile Platformer
 
 <p align="center">
-  <img src="screenshots/gameplay.jpg" alt="Stick & Step Gameplay Preview" width="360"/>
-  <br/>
-  <a href="screenshots/gameplay_demo.mp4">▶️ <b>Click here to watch the full gameplay video (MP4)</b></a>
+  <video src="https://github.com/user-attachments/assets/8228ce92-1081-4c8f-b370-24e3d48b98cb" width="340" controls autoplay loop muted></video>
 </p>
 
 <p align="center">
@@ -33,7 +33,6 @@ This repository serves as an **Engineering Showcase & Architectural Case Study**
 
 <p align="center">
   <img src="screenshots/main_menu.jpg" width="18%" alt="Main Menu"/>
-  <img src="screenshots/gameplay.jpg" width="18%" alt="Gameplay"/>
   <img src="screenshots/shop_characters.jpg" width="18%" alt="Characters"/>
   <img src="screenshots/shop_sticks.jpg" width="18%" alt="Sticks"/>
   <img src="screenshots/shop_themes.jpg" width="18%" alt="Themes"/>
