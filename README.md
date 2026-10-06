@@ -1,7 +1,9 @@
 # 🕹️ Stick & Step - 2D Precision Mobile Platformer
 
 <p align="center">
-  <video src="screenshots/gameplay_demo.mp4" width="340" controls autoplay loop muted></video>
+  <img src="screenshots/gameplay.jpg" alt="Stick & Step Gameplay Preview" width="360"/>
+  <br/>
+  <a href="screenshots/gameplay_demo.mp4">▶️ <b>Click here to watch the full gameplay video (MP4)</b></a>
 </p>
 
 <p align="center">
@@ -96,6 +98,7 @@ Built with zero rigid scene couplings using C# `Action OnShopUpdated` delegation
 | **Target SDK** | `compileSdk 36`, `targetSdk 36` (Android 15), `minSdk 24` |
 | **Distribution** | Google Play Closed Testing (Active 14-day compliance period) |
 | **Monetization** | Google Mobile Ads (AdMob) Rewarded / Interstitial / Banner |
+| **Legal & Privacy** | [Hosted on GitHub Gist](https://gist.github.com/Mehmet34024) (GDPR & Google Play Compliant) |
 
 ---
 
@@ -177,6 +180,7 @@ Sahneler arasında katı bağımlılıklar olmadan, C# `Action OnShopUpdated` de
 | **Hedef SDK** | `compileSdk 36`, `targetSdk 36` (Android 15), `minSdk 24` |
 | **Yayınlama** | Google Play Kapalı Test (14 günlük aktif test periyodu) |
 | **Monetizasyon** | Google Mobile Ads (AdMob) Rewarded / Interstitial / Banner |
+| **Yasal & Gizlilik** | [GitHub Gist üzerinde barındırılmaktadır](https://gist.github.com/Mehmet34024) (GDPR & Google Play Uyumlu) |
 
 ---
 
